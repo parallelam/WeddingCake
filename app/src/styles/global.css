@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'Proxima Nova Reg';
+    src: url('../assets/fonts/Proxima Nova Reg.ttf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Reg It';
+    src: url('../assets/fonts/Proxima Nova Reg It.ttf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Light';
+    src: url('../assets/fonts/Proxima Nova Light.ttf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Light It';
+    src: url('../assets/fonts/Proxima Nova Light It.ttf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('../assets/fonts/Proxima Nova Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold It';
+    src: url('../assets/fonts/Proxima Nova Bold It.ttf');
+}
+
+body, a, p, div, span, h1, h2, h3, h4, h5, h6, li, ol, ul, text, input {
+    font-family: 'Proxima Nova Reg';
+}
+
+body {
+    background-color: #f1f5f6;
+    margin: 0;
+}
+
+.collapse {
+    transition: height 200ms;
+}

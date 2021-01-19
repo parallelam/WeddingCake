@@ -1,0 +1,9 @@
+.header {
+    background: black;
+}
+
+.header-inner {
+    padding: 12px 24px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
